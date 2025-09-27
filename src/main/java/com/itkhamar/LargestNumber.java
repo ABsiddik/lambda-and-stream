@@ -1,4 +1,4 @@
-package org.example;
+package com.itkhamar;
 
 import java.util.Arrays;
 
